@@ -26,7 +26,7 @@
 - [🤖 Uso](#🤖-uso)
 - [🧪 Testes](#🧪-testes)
 - [📌 Roteiro do projeto](#-roteiro do projeto)
-- [🔰 Contribuindo](#-contribuindo)
+- [🔰 Contribuição](#-contribuindo)
 - [🎗 Licença](#-licença)
 - [🙌 Agradecimentos](#-agradecimentos)
 
