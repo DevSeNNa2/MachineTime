@@ -10,7 +10,7 @@
 <p align="center">Built with the tools and technologies:</p>
 <p align="center">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=express,md,react,vite">
+		<img src="https://skillicons.dev/icons?i=express,md">
 	</a></p>
 <br>
 
