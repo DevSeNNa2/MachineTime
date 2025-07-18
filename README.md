@@ -7,44 +7,44 @@
 </p>
 <p align="center">
 	<!-- Shields.io badges disabled, using skill icons. --></p>
-<p align="center">Built with the tools and technologies:</p>
+<p align="center">Desenvolvido com as ferramentas e tecnologias:</p>
 <p align="center">
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=express,md">
 	</a></p>
 <br>
 
-## 🔗 Table of Contents
+## 🔗 Tabela de Conteúdos
 
-- [📍 Overview](#-overview)
-- [👾 Features](#-features)
-- [📁 Project Structure](#-project-structure)
-  - [📂 Project Index](#-project-index)
-- [🚀 Getting Started](#-getting-started)
-  - [☑️ Prerequisites](#-prerequisites)
-  - [⚙️ Installation](#-installation)
-  - [🤖 Usage](#🤖-usage)
-  - [🧪 Testing](#🧪-testing)
-- [📌 Project Roadmap](#-project-roadmap)
-- [🔰 Contributing](#-contributing)
-- [🎗 License](#-license)
-- [🙌 Acknowledgments](#-acknowledgments)
+- [📍 Visão geral](#-visão geral)
+- [👾 Recursos](#-recursos)
+- [📁 Estrutura do projeto](#-estrutura do projeto)
+- [📂 Índice do projeto](#-índice do projeto)
+- [🚀 Introdução](#-início-do-projeto)
+- [☑️ Pré-requisitos](#-pré-requisitos)
+- [⚙️ Instalação](#-instalação)
+- [🤖 Uso](#🤖-uso)
+- [🧪 Testes](#🧪-testes)
+- [📌 Roteiro do projeto](#-roteiro do projeto)
+- [🔰 Contribuindo](#-contribuindo)
+- [🎗 Licença](#-licença)
+- [🙌 Agradecimentos](#-agradecimentos)
 
 ---
 
-## 📍 Overview
+## 📍 Visão geral
 
 <code>❯ REPLACE-ME</code>
 
 ---
 
-## 👾 Features
+## 👾 Recursos
 
 <code>❯ REPLACE-ME</code>
 
 ---
 
-## 📁 Project Structure
+## 📁 Estrutura do Projeto
 
 ```sh
 └── MachineTime/
@@ -60,7 +60,7 @@
 ```
 
 
-### 📂 Project Index
+### 📂 Índice do projeto
 <details open>
 	<summary><b><code>MACHINETIME/</code></b></summary>
 	<details> <!-- __root__ Submodule -->
@@ -105,33 +105,33 @@
 </details>
 
 ---
-## 🚀 Getting Started
+## 🚀 Introdução
 
-### ☑️ Prerequisites
+### ☑️ Pré-requisitos
 
-Before getting started with MachineTime, ensure your runtime environment meets the following requirements:
+Antes de começar a usar o MachineTime, certifique-se de que seu ambiente de execução atenda aos seguintes requisitos:
 
-- **Programming Language:** Error detecting primary_language: {'js': 3, 'json': 5}
-- **Package Manager:** Npm
+- **Linguagem de Programação:** Error detecting primary_language: {'js': 3, 'json': 5}
+- **Gerenciador de pacotes:** Npm
 
 
-### ⚙️ Installation
+### ⚙️ Instalação
 
-Install MachineTime using one of the following methods:
+Instale MachineTime usando o seguinte método:
 
-**Build from source:**
+**Desenvolvido das fontes:**
 
-1. Clone the MachineTime repository:
+1. Clone a MachineTime repositório:
 ```sh
 ❯ git clone https://github.com/DevSeNNa2/MachineTime
 ```
 
-2. Navigate to the project directory:
+2. Navigue pelo diretório do projeto:
 ```sh
 ❯ cd MachineTime
 ```
 
-3. Install the project dependencies:
+3. Instale as dependencias do projeto:
 
 
 **Using `npm`** &nbsp; [<img align="center" src="" />]()
@@ -143,7 +143,7 @@ Install MachineTime using one of the following methods:
 
 
 
-### 🤖 Usage
+### 🤖 Uso
 Run MachineTime using the following command:
 **Using `npm`** &nbsp; [<img align="center" src="" />]()
 
@@ -152,7 +152,7 @@ Run MachineTime using the following command:
 ```
 
 
-### 🧪 Testing
+### 🧪 Testes
 Run the test suite using the following command:
 **Using `npm`** &nbsp; [<img align="center" src="" />]()
 
@@ -162,7 +162,7 @@ Run the test suite using the following command:
 
 
 ---
-## 📌 Project Roadmap
+## 📌 Roteiro de projeto
 
 - [X] **`Task 1`**: <strike>Implement feature one.</strike>
 - [ ] **`Task 2`**: Implement feature two.
@@ -170,7 +170,7 @@ Run the test suite using the following command:
 
 ---
 
-## 🔰 Contributing
+## 🔰 Contribuição
 
 - **💬 [Join the Discussions](https://github.com/DevSeNNa2/MachineTime/discussions)**: Share your insights, provide feedback, or ask questions.
 - **🐛 [Report Issues](https://github.com/DevSeNNa2/MachineTime/issues)**: Submit bugs found or log feature requests for the `MachineTime` project.
@@ -179,26 +179,26 @@ Run the test suite using the following command:
 <details closed>
 <summary>Contributing Guidelines</summary>
 
-1. **Fork the Repository**: Start by forking the project repository to your github account.
-2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
-   ```sh
-   git clone https://github.com/DevSeNNa2/MachineTime
-   ```
-3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
-   ```sh
-   git checkout -b new-feature-x
-   ```
-4. **Make Your Changes**: Develop and test your changes locally.
-5. **Commit Your Changes**: Commit with a clear message describing your updates.
-   ```sh
-   git commit -m 'Implemented new feature x.'
-   ```
-6. **Push to github**: Push the changes to your forked repository.
-   ```sh
-   git push origin new-feature-x
-   ```
-7. **Submit a Pull Request**: Create a PR against the original project repository. Clearly describe the changes and their motivations.
-8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
+1. **Faça um fork do repositório**: Comece fazendo um fork do repositório do projeto para sua conta do GitHub.
+2. **Clone localmente**: Clone o repositório bifurcado para sua máquina local usando um cliente Git.
+```sh
+git clone https://github.com/DevSeNNa2/MachineTime
+```
+3. **Crie uma nova ramificação**: Sempre trabalhe em uma nova ramificação, dando a ela um nome descritivo.
+```sh
+git checkout -b new-feature-x
+```
+4. **Faça suas alterações**: Desenvolva e teste suas alterações localmente.
+5. **Faça um commit das suas alterações**: Faça um commit com uma mensagem clara descrevendo suas atualizações.
+```sh
+git commit -m 'Implemented new feature x.'
+```
+6. **Envie para o GitHub**: Envie as alterações para seu repositório bifurcado.
+```sh
+git push origin new-feature-x
+```
+7. **Envie um Pull Request**: Crie um PR para o repositório original do projeto. Descreva claramente as alterações e suas motivações.
+8. **Revisão**: Assim que seu PR for revisado e aprovado, ele será incorporado ao branch principal. Parabéns pela sua contribuição!
 </details>
 
 <details closed>
@@ -213,14 +213,14 @@ Run the test suite using the following command:
 
 ---
 
-## 🎗 License
+## 🎗 Licença
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+Este projeto está protegido pela Licença [SELECT-A-LICENSE](https://choosealicense.com/licenses). Para mais detalhes, consulte o arquivo [LICENSE](https://choosealicense.com/licenses/).
 
 ---
 
-## 🙌 Acknowledgments
+## 🙌 Agradecimentos
 
-- List any resources, contributors, inspiration, etc. here.
+- Liste quaisquer recursos, colaboradores, inspirações, etc. aqui.
 
 ---
